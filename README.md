@@ -1,4 +1,4 @@
-# 基于react+antd的后台框架
+# 基于react+antd的web mqtt客户端
 github地址：[基于react+antd的web mqtt客户端](https://github.com/xjc-opensource/react-antd-mqtt-client)  
 预览地址：[预览地址](https://xjc-opensource.github.io/react-antd-mqtt-client)
 
@@ -100,3 +100,7 @@ github地址：[基于react+antd的web mqtt客户端](https://github.com/xjc-ope
 # 相关资料
 * react入门教程: http://www.runoob.com/react  
 * antd: https://ant.design
+
+
+link:  
+   weixin: chinaxjc208
